@@ -140,14 +140,12 @@ h6{
   /*media*/
 @media (max-width:800px) {
     #Logo {
-        width:55%;
-        height: auto;
+        height: 0%;
     }
 }
 
   @media (max-width:800px) {
     #Logo {
-        width:25%;
-        height: auto;
+        height: 0%;
     }
 }
