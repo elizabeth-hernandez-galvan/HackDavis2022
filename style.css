@@ -1,0 +1,58 @@
+html {
+    min-height: 100%;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(#080354,#061c74,#586edf,#899fe1,#eac090,#f09a38);
+  background-repeat: no-repeat;
+}
+.logo{
+  text-align: center;
+}
+
+h1{
+  color:white;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+
+ul {
+  font-family: 'Montserrat', sans-serif;
+  height:100%;
+}
+
+.justify-content-center {
+    justify-content: space-evenly!important;
+  padding:1%;
+  background-color:#FFD700;
+}
+
+.nav-link {
+    color: #022851;
+    font-size: 100%;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top:5%;
+}
+
+.box {
+  width: 20%;
+  text-align: center;
+  margin-left: 5%;
+  margin-right: 5%;
+  color: white;
+}
+.img-fluid{
+  height:40%;
+}
+iframe {
+    margin:auto;
+    display:block;
+}
